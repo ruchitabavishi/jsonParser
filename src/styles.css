@@ -1,0 +1,12 @@
+body{
+    margin: 50px;
+    text-align: center
+}
+button{
+    margin: 20px;
+}
+
+.title{
+    font-family: "Open Sans", sans-serif;
+    color: #d46e58;
+}
